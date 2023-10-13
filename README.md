@@ -1,5 +1,11 @@
 # LBAW 2261
 
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=-eqYxbMFlLA">
+         <img src="https://img.youtube.com/vi/-eqYxbMFlLA/0.jpg" style="width:100%;">
+      </a>
+</div>
+
 **Nexus** is a revolutionary new social network that connects people from all walks of life. With a sleek and intuitive interface, users can easily create profiles, share their interests and passions by making posts, comments and likes and by creating or joining pre-existing thematic groups to connect with friends and family. This communication is further facilitated by Nexus built-in chat with possibility to make video calls so you can be closer to the ones you love.
 
 ## Docker Command
