@@ -1,5 +1,6 @@
 # LBAW 2261
 
+Check the video ...
 <div align="left">
       <a href="https://www.youtube.com/watch?v=-eqYxbMFlLA">
          <img src="https://img.youtube.com/vi/-eqYxbMFlLA/0.jpg" style="width:100%;">
